@@ -1,0 +1,12 @@
+{
+  "name": "wheater_app_cli",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ignacio Núñez <ignacio_nusep@gmail.com>",
+  "license": "ISC",
+  "description": "Mediante esta app el usuario podrá ver la información del tiempo en la ciudad que ingrese. "
+}
